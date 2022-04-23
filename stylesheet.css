@@ -1,8 +1,8 @@
 html {
   font-size: 17px;
-  font-family: monospace;
   margin: 45px;
   padding: 10px;
+    cursor: url('assets/cursor/cursor1.png'),auto;
   background-color: #1a1a1a;
   color: #e6b800;
   border-radius: 5px;
@@ -35,6 +35,7 @@ hr {
 }
 
 .icons {
+  cursor: url('assets/cursor/cursor1.png'),auto;
   margin-left: 410px;
   margin-right: 410px;
   height: inherit;
