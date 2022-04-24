@@ -1,0 +1,65 @@
+html {
+  font-size: 17px;
+  margin: 45px;
+  padding: 10px;
+    cursor: url('assets/cursor/cursor1.png'),auto;
+  background-color: #1a1a1a;
+  color: #e6b800;
+  border-radius: 5px;
+  border-color: #e6b800;
+  border-width: thick;
+  border-style: groove;
+}
+
+hr {
+  color: #e6b800;
+  border-style: none;
+  border-top-radius: 5px;
+  border-top-width: thick;
+  border-top-style: dotted;
+}
+
+::-moz-selection { /* Code for Firefox */
+  background-color: #e6b800;
+  color: #000000;
+}
+
+::selection {
+  background-color: #e6b800;
+  color: #000000;
+}
+
+
+.text-align-center {
+  text-align: center;
+}
+
+.icons {
+  cursor: url('assets/cursor/cursor1.png'),auto;
+  margin-left: 410px;
+  margin-right: 410px;
+  height: inherit;
+  width: inherit;
+  display: block;
+  padding: 15px;
+  border-radius: 5px;
+  height: inherit;
+  width: inherit;
+  background-color: #e6b800;
+}
+
+#discord {
+  height: 50px;
+}
+
+#instagram {
+  height: 47.5px;
+}
+
+#github {
+  height: 47.5px;
+}
+
+#youtube {
+  height: 53.5px;
+}
